@@ -2,7 +2,8 @@
 
 void setup(){
   
-  
+  Robot orbo;
+  orbo.init();
 }
 
 
