@@ -1,13 +1,13 @@
 #include "OrboBot.h"
 
-void setup(){
-  
-  Robot orbo;
-  orbo.init();
-}
+Robot orbo;
 
+void setup(){  
+
+    orbo.init();
+
+}
 
 void loop(){
 
-  
 }
